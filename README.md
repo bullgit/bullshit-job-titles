@@ -10,3 +10,5 @@ bullshit job titles
 * Google Search Expert `GSA`
 * Ninja Wizard King Slayer `NWKS`
 * Flash Guru `FG`
+* Homepage Designer `HD`
+* Creative Mastermind `CM`
