@@ -8,3 +8,5 @@ bullshit job titles
 * Professional Pizza Reheater `PPR`
 * Junior WordPress Admin `JWA`
 * Google Search Expert `GSA`
+* Ninja Wizard King Slayer `NWKS`
+* Flash Guru
