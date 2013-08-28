@@ -1,6 +1,6 @@
 # bullshit job titles `BJT`
 
-* Webmaster (from [CSS-Tricks](http://css-tricks.com/job-titles-in-the-web-industry/))
+* Webmaster `W`
 * Internet Expert `IE`
 * Senior Coffee Maker `SCM`
 * Lead File Uploader `LFU`
