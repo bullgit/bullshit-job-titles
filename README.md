@@ -9,4 +9,4 @@ bullshit job titles
 * Junior WordPress Admin `JWA`
 * Google Search Expert `GSA`
 * Ninja Wizard King Slayer `NWKS`
-* Flash Guru
+* Flash Guru `FG`
