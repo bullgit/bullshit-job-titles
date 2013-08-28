@@ -11,3 +11,5 @@
 * Flash Guru `FG`
 * Homepage Designer `HD`
 * Creative Mastermind `CM`
+* Future Millionaire `FM`
+* Dreamweaver Rock Star `DRS`
