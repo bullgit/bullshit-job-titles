@@ -1,4 +1,8 @@
-bullshit-job-titles
+bullshit job titles
 ===================
 
-the shittiest job titles you'll ever see
+* Webmaster
+* Internet Expert
+* Senior Coffee Maker
+* Lead File Uploader
+* 
