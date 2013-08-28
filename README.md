@@ -5,4 +5,6 @@ bullshit job titles
 * Internet Expert
 * Senior Coffee Maker
 * Lead File Uploader
-* 
+* Professional Pizza Reheater
+* Junior WordPress Admin
+* Pro Google Searcher
