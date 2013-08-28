@@ -1,5 +1,4 @@
-bullshit job titles
-===================
+# bullshit job titles `BJT`
 
 * Webmaster (from [CSS-Tricks](http://css-tricks.com/job-titles-in-the-web-industry/))
 * Internet Expert `IE`
