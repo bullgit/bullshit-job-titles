@@ -13,3 +13,4 @@
 * Creative Mastermind `CM`
 * Future Millionaire `FM`
 * Dreamweaver Rock Star `DRS`
+* Photoshop Master `PSM`
