@@ -15,3 +15,4 @@
 * Dreamweaver RockStar `DWRS`
 * Photoshop Master `PSM`
 * Joomla Celebrity `JMC`
+* Drag & Drop Hero `DDH`
