@@ -16,3 +16,4 @@
 * Photoshop Master `PSM`
 * Joomla Celebrity `JMC`
 * Drag & Drop Hero `DDH`
+* HTML Artist `HAT`
