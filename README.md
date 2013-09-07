@@ -17,3 +17,4 @@
 * Joomla Celebrity `JMC`
 * Drag & Drop Hero `DDH`
 * HTML Artist `HAT`
+* Master of Copy&Paste `MCP`
