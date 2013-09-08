@@ -18,3 +18,4 @@
 * Drag & Drop Hero `DDH`
 * HTML Artist `HAT`
 * Master of Copy&Paste `MCP`
+* First Class HTML Slut `FCHS`
