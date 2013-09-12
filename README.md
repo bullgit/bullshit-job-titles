@@ -19,4 +19,4 @@
 * HTML Artist `HAT`
 * Master of Copy&Paste `MCP`
 * First Class HTML Slut `FCHS`
-* Hashtag Manager `HTM`
+* Hashtag Manager Legend `HTML`
