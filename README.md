@@ -20,3 +20,4 @@
 * Master of Copy&Paste `MCP`
 * First Class HTML Slut `FCHS`
 * Hashtag Manager Legend `HTML`
+* Freaking Frontpage Expert `FFH`
