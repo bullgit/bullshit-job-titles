@@ -21,3 +21,14 @@
 * First Class HTML Slut `FCHS`
 * Hashtag Manager Legend `HTML`
 * Freaking Frontpage Expert `FFH`
+* Professional E-Mail Composer `PEC`
+* Fax Machine Masterer `FMM`
+* .BMP Optimizer `BMPO`
+* Phone Answering Specialist `PAS`
+* Closed Source Evangelist `CSE`
+* CSS Programmer `CSSP`
+* WiFi Wires Shop Owner `WWSO`
+* Markdown Hacker `MDH`
+* Wikipedia Content Quality Supervisor `WCQS`
+
+### add your own BJTs - Pull Requests welcome!
