@@ -30,5 +30,7 @@
 * WiFi Wires Shop Owner `WWSO`
 * Markdown Hacker `MDH`
 * Wikipedia Content Quality Supervisor `WCQS`
+* First Class Joomla Hacker `FCJH`
+* Über SASS Tweeter `UST / USST`
 
 ### add your own BJTs - Pull Requests welcome!
