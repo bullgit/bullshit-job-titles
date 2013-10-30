@@ -32,5 +32,10 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * First Class Joomla Hacker `FCJH`
 * Über SASS Tweeter `UST / USST`
+* Table Layout King `TLK`
+* M.Dot Superhero `MDSH`
+* Volunteer Frameset Endorser `VFE`
+* Lead WYSIWYG Ninja `LWN`
+* Expert Mobile Phone Photographer `EMPP`
 
 ### add your own BJTs - Pull Requests welcome!
