@@ -37,5 +37,6 @@
 * Volunteer Frameset Endorser `VFE`
 * Lead WYSIWYG Ninja `LWN`
 * Expert Mobile Phone Photographer `EMPP`
+* Viral Videographer `VV`
 
 ### add your own BJTs - Pull Requests welcome!
