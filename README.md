@@ -39,4 +39,5 @@
 * Expert Mobile Phone Photographer `EMPP`
 * Viral Videograph `VV`
 * Jekyll Static Site Specialist `JSSS`
+
 ### add your own BJTs - Pull Requests welcome!
