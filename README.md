@@ -39,5 +39,6 @@
 * Expert Mobile Phone Photographer `EMPP`
 * Viral Videograph `VV`
 * Jekyll Static Site Specialist `JSSS`
+* Pro TYPO3 Installer `PTI`
 
 ### add your own BJTs - Pull Requests welcome!
