@@ -44,5 +44,6 @@
 * Future Functionality Consultant `FFC`
 * National Usability Director `NUD`
 * Pornography Historian `PH`
+* Crack & Ecstasy Organizer `CEO`
 
 ### add your own BJTs - Pull Requests welcome!
