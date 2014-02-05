@@ -38,6 +38,7 @@
 * Lead WYSIWYG Ninja `LWN`
 * Expert Mobile Phone Photographer `EMPP`
 * Viral Videograph `VV`
+* Amazing Keyboard Presser `AKP`
 * Jekyll Static Site Specialist `JSSS`
 * Pro TYPO3 Installer `PTI`
 * Direct Response Administrator `DRA`
