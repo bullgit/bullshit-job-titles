@@ -46,5 +46,6 @@
 * National Usability Director `NUD`
 * Pornography Historian `PH`
 * Crack & Ecstasy Organizer `CEO`
+* Pro CSS-managing-system Developer `PCSSMSD`
 
 ### add your own BJTs - Pull Requests welcome!
