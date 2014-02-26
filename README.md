@@ -47,5 +47,9 @@
 * Pornography Historian `PH`
 * Crack & Ecstasy Organizer `CEO`
 * Pro CSS-managing-system Developer `PCSSMSD`
+* Awesome Multiple Files Deleter `AMFD`
+* Post-Privacy Guru `PPG`
+* Social Media Assistant `SMA`
+* Senior Phone Operator `SPO`
 
 ### add your own BJTs - Pull Requests welcome!
