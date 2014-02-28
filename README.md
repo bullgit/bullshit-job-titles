@@ -51,5 +51,6 @@
 * Post-Privacy Guru `PPG`
 * Social Media Assistant `SMA`
 * Senior Phone Operator `SPO`
+* Wordpress Expert `WpE`
 
 ### add your own BJTs - Pull Requests welcome!
