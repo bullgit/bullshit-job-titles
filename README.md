@@ -1,4 +1,4 @@
-# bullshit job titles `BJT`
+# bullshit job titles `BJTs`
 
 * Webmaster `WM`
 * Internet Expert `IE`
