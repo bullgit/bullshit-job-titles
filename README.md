@@ -52,5 +52,6 @@
 * Social Media Assistant `SMA`
 * Senior Phone Operator `SPO`
 * Wordpress Expert `WpE`
+* Professional TweetDeck Monitorerer `PTM`
 
 ### add your own BJTs - Pull Requests welcome!
