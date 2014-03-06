@@ -54,5 +54,6 @@
 * Wordpress Expert `WpE`
 * Professional TweetDeck Monitorerer `PTM`
 * JavaScript Injectioneer `JI`
+* Creative Researcher Hacker `CRH`
 
 ### add your own BJTs - Pull Requests welcome!
