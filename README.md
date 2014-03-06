@@ -53,5 +53,6 @@
 * Senior Phone Operator `SPO`
 * Wordpress Expert `WpE`
 * Professional TweetDeck Monitorerer `PTM`
+* JavaScript Injectioneer `JI`
 
 ### add your own BJTs - Pull Requests welcome!
