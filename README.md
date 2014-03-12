@@ -55,5 +55,7 @@
 * Professional TweetDeck Monitorerer `PTM`
 * JavaScript Injectioneer `JI`
 * Creative Researcher Hacker `CRH`
+* SASS SLUT `SS`
+
 
 ### add your own BJTs - Pull Requests welcome!
