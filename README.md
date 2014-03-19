@@ -56,6 +56,6 @@
 * JavaScript Injectioneer `JI`
 * Creative Researcher Hacker `CRH`
 * SASS SLUT `SS`
-
+* Coolest Copy Cat `CCC`
 
 ### add your own BJTs - Pull Requests welcome!
