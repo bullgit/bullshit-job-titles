@@ -57,5 +57,6 @@
 * Creative Researcher Hacker `CRH`
 * SASS SLUT `SS`
 * Coolest Copy Cat `CCC`
+* JavaScript Giant `JSG`
 
 ### add your own BJTs - Pull Requests welcome!
