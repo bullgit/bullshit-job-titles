@@ -58,5 +58,6 @@
 * SASS SLUT `SS`
 * Coolest Copy Cat `CCC`
 * JavaScript Giant `JSG`
+* Powerful Newsletter Unsubscriber `PNU`
 
 ### add your own BJTs - Pull Requests welcome!
