@@ -59,5 +59,6 @@
 * Coolest Copy Cat `CCC`
 * JavaScript Giant `JSG`
 * Powerful Newsletter Unsubscriber `PNU`
+* ASAP Developer `ASAPD`
 
 ### add your own BJTs - Pull Requests welcome!
