@@ -60,5 +60,6 @@
 * JavaScript Giant `JSG`
 * Powerful Newsletter Unsubscriber `PNU`
 * ASAP Developer `ASAPD`
+* Variables Lord Master `VLM`
 
 ### add your own BJTs - Pull Requests welcome!
