@@ -61,5 +61,6 @@
 * Powerful Newsletter Unsubscriber `PNU`
 * ASAP Developer `ASAPD`
 * Variables Lord Master `VLM`
+* Early Morning Late Adopter `EMLA`
 
 ### add your own BJTs - Pull Requests welcome!
