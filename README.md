@@ -62,5 +62,7 @@
 * ASAP Developer `ASAPD`
 * Variables Lord Master `VLM`
 * Early Morning Late Adopter `EMLA`
+* Virtuous Twittererer `VTRR`
+* HyperSpace Tamer `HST` 
 
 ### add your own BJTs - Pull Requests welcome!
