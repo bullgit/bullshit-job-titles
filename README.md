@@ -64,5 +64,6 @@
 * Early Morning Late Adopter `EMLA`
 * Virtuous Twittererer `VTRR`
 * HyperSpace Tamer `HST` 
+* HTML5 Gangster `HG`
 
 ### add your own BJTs - Pull Requests welcome!
