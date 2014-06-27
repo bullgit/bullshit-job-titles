@@ -65,5 +65,6 @@
 * Virtuous Twittererer `VTRR`
 * HyperSpace Tamer `HST` 
 * HTML5 Gangster `HG`
+* CSS Warrior `CSSW`
 
 ### add your own BJTs - Pull Requests welcome!
