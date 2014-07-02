@@ -66,5 +66,6 @@
 * HyperSpace Tamer `HST` 
 * HTML5 Gangster `HG`
 * CSS Warrior `CSSW`
+* Website Building Warrior `WBW`
 
 ### add your own BJTs - Pull Requests welcome!
