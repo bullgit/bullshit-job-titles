@@ -67,5 +67,6 @@
 * HTML5 Gangster `HG`
 * CSS Warrior `CSSW`
 * Website Building Warrior `WBW`
+* Security Startup Test `SST`
 
 ### add your own BJTs - Pull Requests welcome!
