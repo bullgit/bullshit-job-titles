@@ -6,6 +6,7 @@
 * Lead File Uploader `LFU`
 * Professional Pizza Reheater `PPR`
 * Junior WordPress Admin `JWPA`
+* Senior WordPress Admin `SWPA`
 * Google Search Expert `GSE`
 * Ninja Wizard King Slayer `NWKS`
 * Flash Guru `FG`
