@@ -69,5 +69,7 @@
 * CSS Warrior `CSSW`
 * Website Building Warrior `WBW`
 * Security Startup Test `SST`
+* Independent Security Resarcher `ISR`
+* Evolutionary Thinker of Free Code `ETFC`
 
 ### add your own BJTs - Pull Requests welcome!
