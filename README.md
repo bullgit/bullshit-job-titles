@@ -71,5 +71,6 @@
 * Security Startup Test `SST`
 * Independent Security Resarcher `ISR`
 * Evolutionary Thinker of Free Code `ETFC`
+* Thought Leader `TL`
 
 ### add your own BJTs - Pull Requests welcome!
