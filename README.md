@@ -72,5 +72,7 @@
 * Independent Security Resarcher `ISR`
 * Evolutionary Thinker of Free Code `ETFC`
 * Thought Leader `TL`
+* Beard Manager `BM`
+* Facial Hair Consultant `FHC`
 
 ### add your own BJTs - Pull Requests welcome!
