@@ -74,5 +74,10 @@
 * Thought Leader `TL`
 * Beard Manager `BM`
 * Facial Hair Consultant `FHC`
+* Senior Beard Manager `SBM`
+* Busy Digital Software Manager `BDSM`
+* Lazy Exotic Environment Technologist `LEET`
+* Guru Master Business Hero `GMBH`
+* Big IT Consultant Helper `BITCH`
 
 ### add your own BJTs - Pull Requests welcome!
