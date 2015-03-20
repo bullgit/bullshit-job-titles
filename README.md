@@ -79,5 +79,6 @@
 * Lazy Exotic Environment Technologist `LEET`
 * Guru Master Business Hero `GMBH`
 * Big IT Consultant Helper `BITCH`
+* Junior Beard Developer `JBD`
 
 ### add your own BJTs - Pull Requests welcome!
