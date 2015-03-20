@@ -81,5 +81,6 @@
 * Big IT Consultant Helper `BITCH`
 * Junior Beard Developer `JBD`
 * Incomplete Beard Grower `IBG`
+* Unemployed Interface Engineer `UIE`
 
 ### add your own BJTs - Pull Requests welcome!
