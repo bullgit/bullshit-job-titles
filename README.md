@@ -80,5 +80,6 @@
 * Guru Master Business Hero `GMBH`
 * Big IT Consultant Helper `BITCH`
 * Junior Beard Developer `JBD`
+* Incomplete Beard Grower `IBG`
 
 ### add your own BJTs - Pull Requests welcome!
