@@ -82,5 +82,6 @@
 * Junior Beard Developer `JBD`
 * Incomplete Beard Grower `IBG`
 * Unemployed Interface Engineer `UIE`
+* UILang Expert `UE`
 
 ### add your own BJTs - Pull Requests welcome!
