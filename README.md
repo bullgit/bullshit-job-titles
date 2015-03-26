@@ -83,5 +83,12 @@
 * Incomplete Beard Grower `IBG`
 * Unemployed Interface Engineer `UIE`
 * UILang Expert `UE`
+* Mindmap Designer `MD`
+* Master CSS-layout Spec Designer `MClSC`
+* Facebook Quality Controller `FQC`
+* StackExchange Research Assistant `SERA`
+* Sexual Social Media Professor `SSMP`
+* Adobe Acrobat Updater `AAU`
+* Redditor `R`
 
 ### add your own BJTs - Pull Requests welcome!
