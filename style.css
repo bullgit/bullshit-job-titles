@@ -9,8 +9,11 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bolder;
 	color: #fff;
-	font-size: 6rem;
 	text-align: center;
+}
+
+p#newtitle {
+	font-size: 6rem;
 }
 
 .button {
