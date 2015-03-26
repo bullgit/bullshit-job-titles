@@ -83,5 +83,6 @@
 * Incomplete Beard Grower `IBG`
 * Unemployed Interface Engineer `UIE`
 * UILang Expert `UE`
+* Frontend Engineer `FE`
 
 ### add your own BJTs - Pull Requests welcome!
