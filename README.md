@@ -90,5 +90,6 @@
 * Sexual Social Media Professor `SSMP`
 * Adobe Acrobat Updater `AAU`
 * Redditor `R`
+* PHP CEO `PHPCEO`
 
 ### add your own BJTs - Pull Requests welcome!
