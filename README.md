@@ -91,5 +91,7 @@
 * Adobe Acrobat Updater `AAU`
 * Redditor `R`
 * PHP CEO `PHPCEO`
+* Job Title Generator `JTG`
+* Sublime Text Evangelist `STE`
 
 ### add your own BJTs - Pull Requests welcome!
