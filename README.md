@@ -91,5 +91,9 @@
 * Adobe Acrobat Updater `AAU`
 * Redditor `R`
 * PHP CEO `PHPCEO`
+* Rapid Prototype Developer `RPD`
+* Senior Google Analytics Expert `SenGAnEx`
+* Visionary Product Owner `VPO`
+* Minimum Viable Product Developer `MVPD`
 
 ### add your own BJTs - Pull Requests welcome!
