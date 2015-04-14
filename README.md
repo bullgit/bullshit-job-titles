@@ -1,103 +1,103 @@
 # bullshit job titles `BJTs`
 
-* Webmaster `WM`
-* Internet Expert `IE`
-* Senior Coffee Maker `SCM`
-* Lead File Uploader `LFU`
-* Professional Pizza Reheater `PPR`
-* Junior WordPress Admin `JWPA`
-* Senior WordPress Admin `SWPA`
-* Google Search Expert `GSE`
-* Ninja Wizard King Slayer `NWKS`
-* Flash Guru `FG`
-* Homepage Designer `HPD`
-* Creative Mastermind `CMM`
-* Future Millionaire `FMN`
-* Dreamweaver RockStar `DWRS`
-* Photoshop Master `PSM`
-* Joomla Celebrity `JMC`
-* Drag & Drop Hero `DDH`
-* HTML Artist `HAT`
-* Master of Copy&Paste `MCP`
-* First Class HTML Slut `FCHS`
-* Hashtag Manager Legend `HTML`
-* Freaking Frontpage Expert `FFH`
-* Professional E-Mail Composer `PEC`
-* Fax Machine Masterer `FMM`
 * .BMP Optimizer `BMPO`
-* Phone Answering Specialist `PAS`
-* Closed Source Evangelist `CSE`
-* CSS Programmer `CSSP`
-* WiFi Wires Shop Owner `WWSO`
-* Markdown Hacker `MDH`
-* Wikipedia Content Quality Supervisor `WCQS`
-* First Class Joomla Hacker `FCJH`
-* Über SASS Tweeter `UST / USST`
-* Table Layout King `TLK`
-* M.Dot Superhero `MDSH`
-* Volunteer Frameset Endorser `VFE`
-* Lead WYSIWYG Ninja `LWN`
-* Expert Mobile Phone Photographer `EMPP`
-* Viral Videograph `VV`
-* Amazing Keyboard Presser `AKP`
-* Jekyll Static Site Specialist `JSSS`
-* Pro TYPO3 Installer `PTI`
-* Direct Response Administrator `DRA`
-* Future Functionality Consultant `FFC`
-* National Usability Director `NUD`
-* Pornography Historian `PH`
-* Crack & Ecstasy Organizer `CEO`
-* Pro CSS-managing-system Developer `PCSSMSD`
-* Awesome Multiple Files Deleter `AMFD`
-* Post-Privacy Guru `PPG`
-* Social Media Assistant `SMA`
-* Senior Phone Operator `SPO`
-* Wordpress Expert `WpE`
-* Professional TweetDeck Monitorerer `PTM`
-* JavaScript Injectioneer `JI`
-* Creative Researcher Hacker `CRH`
-* SASS SLUT `SS`
-* Coolest Copy Cat `CCC`
-* JavaScript Giant `JSG`
-* Powerful Newsletter Unsubscriber `PNU`
-* ASAP Developer `ASAPD`
-* Variables Lord Master `VLM`
-* Early Morning Late Adopter `EMLA`
-* Virtuous Twittererer `VTRR`
-* HyperSpace Tamer `HST`
-* HTML5 Gangster `HG`
-* CSS Warrior `CSSW`
-* Website Building Warrior `WBW`
-* Security Startup Test `SST`
-* Independent Security Resarcher `ISR`
-* Evolutionary Thinker of Free Code `ETFC`
-* Thought Leader `TL`
-* Beard Manager `BM`
-* Facial Hair Consultant `FHC`
-* Senior Beard Manager `SBM`
-* Busy Digital Software Manager `BDSM`
-* Lazy Exotic Environment Technologist `LEET`
-* Guru Master Business Hero `GMBH`
-* Big IT Consultant Helper `BITCH`
-* Junior Beard Developer `JBD`
-* Incomplete Beard Grower `IBG`
-* Unemployed Interface Engineer `UIE`
-* UILang Expert `UE`
-* Mindmap Designer `MD`
-* Master CSS-layout Spec Designer `MClSC`
-* Facebook Quality Controller `FQC`
-* StackExchange Research Assistant `SERA`
-* Sexual Social Media Professor `SSMP`
 * Adobe Acrobat Updater `AAU`
-* Redditor `R`
-* PHP CEO `PHPCEO`
-* Job Title Generator `JTG`
-* Sublime Text Evangelist `STE`
-* Rapid Prototype Developer `RPD`
-* Senior Google Analytics Expert `SenGAnEx`
-* Visionary Product Owner `VPO`
-* Minimum Viable Product Developer `MVPD`
+* Amazing Keyboard Presser `AKP`
+* ASAP Developer `ASAPD`
+* Awesome Multiple Files Deleter `AMFD`
+* Beard Manager `BM`
+* Big IT Consultant Helper `BITCH`
+* Busy Digital Software Manager `BDSM`
+* Closed Source Evangelist `CSE`
 * Complete Graphical Manager `CGM`
+* Coolest Copy Cat `CCC`
+* Crack & Ecstasy Organizer `CEO`
+* Creative Mastermind `CMM`
+* Creative Researcher Hacker `CRH`
+* CSS Programmer `CSSP`
+* CSS Warrior `CSSW`
+* Direct Response Administrator `DRA`
+* Drag & Drop Hero `DDH`
+* Dreamweaver RockStar `DWRS`
+* Early Morning Late Adopter `EMLA`
+* Evolutionary Thinker of Free Code `ETFC`
+* Expert Mobile Phone Photographer `EMPP`
+* Facebook Quality Controller `FQC`
+* Facial Hair Consultant `FHC`
+* Fax Machine Masterer `FMM`
+* First Class HTML Slut `FCHS`
+* First Class Joomla Hacker `FCJH`
+* Flash Guru `FG`
+* Freaking Frontpage Expert `FFH`
+* Future Functionality Consultant `FFC`
+* Future Millionaire `FMN`
+* Google Search Expert `GSE`
+* Guru Master Business Hero `GMBH`
+* Hashtag Manager Legend `HTML`
+* Homepage Designer `HPD`
+* HTML Artist `HAT`
+* HTML5 Gangster `HG`
+* HyperSpace Tamer `HST`
+* Incomplete Beard Grower `IBG`
+* Independent Security Resarcher `ISR`
+* Internet Expert `IE`
+* JavaScript Giant `JSG`
+* JavaScript Injectioneer `JI`
+* Jekyll Static Site Specialist `JSSS`
+* Job Title Generator `JTG`
+* Joomla Celebrity `JMC`
+* Junior Beard Developer `JBD`
+* Junior WordPress Admin `JWPA`
+* Lazy Exotic Environment Technologist `LEET`
+* Lead File Uploader `LFU`
+* Lead WYSIWYG Ninja `LWN`
+* M.Dot Superhero `MDSH`
+* Markdown Hacker `MDH`
+* Master CSS-layout Spec Designer `MClSC`
+* Master of Copy&Paste `MCP`
+* Mindmap Designer `MD`
+* Minimum Viable Product Developer `MVPD`
+* National Usability Director `NUD`
+* Ninja Wizard King Slayer `NWKS`
+* Phone Answering Specialist `PAS`
+* Photoshop Master `PSM`
+* PHP CEO `PHPCEO`
+* Pornography Historian `PH`
+* Post-Privacy Guru `PPG`
+* Powerful Newsletter Unsubscriber `PNU`
+* Pro CSS-managing-system Developer `PCSSMSD`
+* Pro TYPO3 Installer `PTI`
+* Professional E-Mail Composer `PEC`
+* Professional Pizza Reheater `PPR`
+* Professional TweetDeck Monitorerer `PTM`
 * Quantum GUI User `QGU`
+* Rapid Prototype Developer `RPD`
+* Redditor `R`
+* SASS SLUT `SS`
+* Security Startup Test `SST`
+* Senior Beard Manager `SBM`
+* Senior Coffee Maker `SCM`
+* Senior Google Analytics Expert `SenGAnEx`
+* Senior Phone Operator `SPO`
+* Senior WordPress Admin `SWPA`
+* Sexual Social Media Professor `SSMP`
+* Social Media Assistant `SMA`
+* StackExchange Research Assistant `SERA`
+* Sublime Text Evangelist `STE`
+* Table Layout King `TLK`
+* Thought Leader `TL`
+* UILang Expert `UE`
+* Unemployed Interface Engineer `UIE`
+* Variables Lord Master `VLM`
+* Viral Videograph `VV`
+* Virtuous Twittererer `VTRR`
+* Visionary Product Owner `VPO`
+* Volunteer Frameset Endorser `VFE`
+* Webmaster `WM`
+* Website Building Warrior `WBW`
+* WiFi Wires Shop Owner `WWSO`
+* Wikipedia Content Quality Supervisor `WCQS`
+* Wordpress Expert `WpE`
+* Über SASS Tweeter `UST / USST`
 
 ### add your own BJTs - Pull Requests welcome!
