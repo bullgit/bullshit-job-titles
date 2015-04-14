@@ -97,5 +97,7 @@
 * Senior Google Analytics Expert `SenGAnEx`
 * Visionary Product Owner `VPO`
 * Minimum Viable Product Developer `MVPD`
+* Complete Graphical Manager `CGM`
+* Quantum GUI User `QGU`
 
 ### add your own BJTs - Pull Requests welcome!
