@@ -25,12 +25,12 @@ p#newtitle {
 	font-size: 20px;
 	background: #fff;
 	padding: 10px 20px 10px 20px;
-	border: solid #1380b8 1px;
+	border: solid #1393d5 1px;
 	text-decoration: none;
 }
 
 .button:hover {
 	color: #fff;
-	background: ;#1393d5;
+	background: #1393d5;
 	border: solid #fff 1px;
 }
