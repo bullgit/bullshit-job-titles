@@ -1,6 +1,6 @@
 html {
 	font-size: 0.625em;
-	background-color: #1380b8;
+	background-color: #1393d5;
 	margin-top: auto;
 	margin-bottom: auto;
 }
@@ -21,16 +21,16 @@ p#newtitle {
 	-webkit-border-radius: 3;
 	-moz-border-radius: 3;
 	border-radius: 3px;
-	color: #1380b8;
+	color: #1393d5;
 	font-size: 20px;
 	background: #fff;
 	padding: 10px 20px 10px 20px;
-	border: solid #1380b8 1px;
+	border: solid #1393d5 1px;
 	text-decoration: none;
 }
 
 .button:hover {
 	color: #fff;
-	background: #1380b8;
+	background: #1393d5;
 	border: solid #fff 1px;
 }
