@@ -71,6 +71,7 @@
 * Professional Pizza Reheater `PPR`
 * Professional TweetDeck Monitorerer `PTM`
 * Quantum GUI User `QGU`
+* Qualitative Spam Reader `QSM
 * Rapid Prototype Developer `RPD`
 * Redditor `R`
 * SASS SLUT `SS`
