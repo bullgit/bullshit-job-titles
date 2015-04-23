@@ -100,5 +100,6 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Über SASS Tweeter `UST / USST`
+* 4 Stages Bullshit Recruiter `4SBR`
 
 ### add your own BJTs - Pull Requests welcome!
