@@ -27,6 +27,7 @@ p#newtitle {
 	padding: 10px 20px 10px 20px;
 	border: solid #1393d5 1px;
 	text-decoration: none;
+	transition: background-color .2s, color .2s, border-color .2s;
 }
 
 .button:hover {
