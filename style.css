@@ -33,4 +33,5 @@ p#newtitle {
 	color: #fff;
 	background: #1393d5;
 	border: solid #fff 1px;
+	cursor: pointer;
 }
