@@ -1,15 +1,19 @@
 # bullshit job titles `BJTs`
 
 * .BMP Optimizer `BMPO`
-* Bottomless Pit of Awesome Name Ideas `BPANI`
+* 4 Stages Bullshit Recruiter `4SBR`
 * Adobe Acrobat Updater `AAU`
 * Amazing Keyboard Presser `AKP`
 * ASAP Developer `ASAPD`
 * Awesome Multiple Files Deleter `AMFD`
 * Beard Manager `BM`
 * Big IT Consultant Helper `BITCH`
+* Bottomless Pit of Awesome Name Ideas `BPANI`
+* Brand Champion `BC`
 * Busy Digital Software Manager `BDSM`
+* Chief Happiness Officer `CHO`
 * Closed Source Evangelist `CSE`
+* Community Data Guerrilla `CDG`
 * Complete Graphical Manager `CGM`
 * Coolest Copy Cat `CCC`
 * Crack & Ecstasy Organizer `CEO`
@@ -17,6 +21,7 @@
 * Creative Researcher Hacker `CRH`
 * CSS Programmer `CSSP`
 * CSS Warrior `CSSW`
+* Digital Prophet `DP`
 * Direct Response Administrator `DRA`
 * Drag & Drop Hero `DDH`
 * Dreamweaver RockStar `DWRS`
@@ -39,8 +44,10 @@
 * HTML Artist `HAT`
 * HTML5 Gangster `HG`
 * HyperSpace Tamer `HST`
+* In-House Philosopher `IHP`
 * Incomplete Beard Grower `IBG`
 * Independent Security Resarcher `ISR`
+* Innovation Sherpa `IS`
 * Internet Expert `IE`
 * JavaScript Giant `JSG`
 * JavaScript Injectioneer `JI`
@@ -71,8 +78,8 @@
 * Professional E-Mail Composer `PEC`
 * Professional Pizza Reheater `PPR`
 * Professional TweetDeck Monitorerer `PTM`
-* Quantum GUI User `QGU`
 * Qualitative Spam Reader `QSM`
+* Quantum GUI User `QGU`
 * Rapid Prototype Developer `RPD`
 * Redditor `R`
 * SASS SLUT `SS`
@@ -83,7 +90,7 @@
 * Senior Phone Operator `SPO`
 * Senior WordPress Admin `SWPA`
 * Sexual Social Media Professor `SSMP`
-* Shizzlifier `SZZ
+* Shizzlifier `SZZ`
 * Social Media Assistant `SMA`
 * Source Code Explorer `SCE`
 * StackExchange Research Assistant `SERA`
@@ -97,8 +104,8 @@
 * Virtual Horsedriver `VH`
 * Virtuous Twittererer `VTRR`
 * Virtuous Visualiser `VVS
-* Visual Jockey `VJ`
 * Visionary Product Owner `VPO`
+* Visual Jockey `VJ`
 * Volunteer Frameset Endorser `VFE`
 * Webmaster `WM`
 * Website Building Warrior `WBW`
@@ -106,6 +113,5 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Über SASS Tweeter `UST / USST`
-* 4 Stages Bullshit Recruiter `4SBR`
 
 ### add your own BJTs - Pull Requests welcome!
