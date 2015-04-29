@@ -83,6 +83,7 @@
 * Senior Phone Operator `SPO`
 * Senior WordPress Admin `SWPA`
 * Sexual Social Media Professor `SSMP`
+* Shizzlifier `SZZ
 * Social Media Assistant `SMA`
 * Source Code Explorer `SCE`
 * StackExchange Research Assistant `SERA`
@@ -95,7 +96,7 @@
 * Viral Videograph `VV`
 * Virtual Horsedriver `VH`
 * Virtuous Twittererer `VTRR`
-* Virtuous Visualiser `VVS`
+* Virtuous Visualiser `VVS
 * Visual Jockey `VJ`
 * Visionary Product Owner `VPO`
 * Volunteer Frameset Endorser `VFE`
