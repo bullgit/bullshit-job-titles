@@ -93,7 +93,10 @@
 * Unemployed Interface Engineer `UIE`
 * Variables Lord Master `VLM`
 * Viral Videograph `VV`
+* Virtual Horsedriver `VH`
 * Virtuous Twittererer `VTRR`
+* Virtuous Visualiser `VVS`
+* Visual Jockey `VJ`
 * Visionary Product Owner `VPO`
 * Volunteer Frameset Endorser `VFE`
 * Webmaster `WM`
