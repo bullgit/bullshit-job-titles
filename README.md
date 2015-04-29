@@ -1,6 +1,7 @@
 # bullshit job titles `BJTs`
 
 * .BMP Optimizer `BMPO`
+* Bottomless Pit of Awesome Name Ideas `BPANI`
 * Adobe Acrobat Updater `AAU`
 * Amazing Keyboard Presser `AKP`
 * ASAP Developer `ASAPD`
@@ -83,6 +84,7 @@
 * Senior WordPress Admin `SWPA`
 * Sexual Social Media Professor `SSMP`
 * Social Media Assistant `SMA`
+* Source Code Explorer `SCE`
 * StackExchange Research Assistant `SERA`
 * Sublime Text Evangelist `STE`
 * Table Layout King `TLK`
@@ -101,6 +103,5 @@
 * Wordpress Expert `WpE`
 * Über SASS Tweeter `UST / USST`
 * 4 Stages Bullshit Recruiter `4SBR`
-* Bottomless Pit of Awesome Name Ideas `BPANI`
 
 ### add your own BJTs - Pull Requests welcome!
