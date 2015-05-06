@@ -113,5 +113,6 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Über SASS Tweeter `UST / USST`
+* CSS Tamer `CSST`
 
 ### add your own BJTs - Pull Requests welcome!
