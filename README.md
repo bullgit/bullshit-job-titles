@@ -47,6 +47,7 @@
 * In-House Philosopher `IHP`
 * Incomplete Beard Grower `IBG`
 * Independent Security Resarcher `ISR`
+* Informal Coffee Analist `ICA`
 * Innovation Sherpa `IS`
 * Internet Expert `IE`
 * JavaScript Giant `JSG`
