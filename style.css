@@ -36,3 +36,7 @@ p#newtitle {
 	border: solid #fff 1px;
 	cursor: pointer;
 }
+
+.button:active {
+	border: solid #1393d5 1px;
+}
