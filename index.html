@@ -5,40 +5,27 @@
 		<title>bullshit job data generator</title>
 
 		<script language="javascript">
+			var request = new XMLHttpRequest();
+			request.open('GET', 'bullshit-job-titles.json', true);
 
-			var jsonPath = "bullshit-job-titles.json";
+			request.onload = function() {
+			  if (this.status >= 200 && this.status < 400) {
+			    // Success!
+			    var data = JSON.parse(this.response);
+			    generate(data);
+			  } else {
+			    // We reached our target server, but it returned an error
 
-			var getJSON = function(url) {
-				return new Promise(function(resolve, reject) {
-					var xhr = new XMLHttpRequest();
-					xhr.open('get', url, true);
-					xhr.responseType = 'json';
-					xhr.onload = function() {
-						var status = xhr.status;
-						if (status == 200) {
-							resolve(xhr.response);
-						} else {
-							reject(status);
-						}
-					};
-					xhr.send();
-				});
+			  }
 			};
 
-			// define blendr vars from json
-			getJSON(jsonPath).then(function(data) {
-				var nbObject = data.results.items.length;
+			request.onerror = function() {
+			  // There was a connection error of some sort
+			};
 
-			    // Iterates through the objects
-			    for(var i = 0; i < nbObject; i++) {
+			request.send();
 
-			    	var nbTitle = data.results.items[i].title;
-			    	var nbDesc = data.results.items[i].description;
-			    	var nbImageUrl = data.results.items[i].url;
-			    }
-			});
-
-			function generate() {
+			function generate(data) {
 				index1 = Math.floor(Math.random() * data.first.length);
 				index2 = Math.floor(Math.random() * data.last.length);
 				var jobtitle = data.first[index1] + " " + data.last[index2];
