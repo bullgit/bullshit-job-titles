@@ -116,5 +116,6 @@
 * Über SASS Tweeter `UST / USST`
 * CSS Tamer `CSST`
 * Beautiful Code Artisan `BCA`
+* Chief Executive Ravioli Code Chef `Chef`
 
 ### add your own BJTs - Pull Requests welcome!
