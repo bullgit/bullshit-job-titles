@@ -10,6 +10,7 @@
 * Big IT Consultant Helper `BITCH`
 * Bottomless Pit of Awesome Name Ideas `BPANI`
 * Brand Champion `BC`
+* Bullshit Experience Designer `BXD`
 * Busy Digital Software Manager `BDSM`
 * Chief Happiness Officer `CHO`
 * Closed Source Evangelist `CSE`
