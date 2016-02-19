@@ -12,8 +12,14 @@ body {
 	text-align: center;
 }
 
-p#newtitle {
-	font-size: 6rem;
+#newtitle {
+	font-size: 6vw;
+}
+
+@media all and (min-width: 1000px) {
+    #newtitle {
+        font-size: 6rem;
+    }
 }
 
 .button {
