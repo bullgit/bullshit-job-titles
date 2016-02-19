@@ -111,6 +111,7 @@
 * Volunteer Frameset Endorser `VFE`
 * Webmaster `WM`
 * Website Building Warrior `WBW`
+* Web Experience Manager `WXM`
 * WiFi Wires Shop Owner `WWSO`
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
