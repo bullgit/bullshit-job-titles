@@ -1,34 +1,19 @@
+---
+---
 <!DOCTYPE html>
 <html>
 	<head>
 		<link rel="stylesheet" href="style.css">
-		<title>bullshit job data generator</title>
+		<title>bullshit job titles generator</title>
 
 		<script language="javascript">
-			var request = new XMLHttpRequest();
-			request.open('GET', 'bullshit-job-titles.json', true);
+			var data = {% include_relative bullshit-job-titles.json %};
 
-			request.onload = function() {
-			  if (this.status >= 200 && this.status < 400) {
-			    // Success!
-			    var data = JSON.parse(this.response);
-			    generate(data);
-			  } else {
-			    // We reached our target server, but it returned an error
-
-			  }
-			};
-
-			request.onerror = function() {
-			  // There was a connection error of some sort
-			};
-
-			request.send();
-
-			function generate(data) {
-				index1 = Math.floor(Math.random() * data.first.length);
-				index2 = Math.floor(Math.random() * data.last.length);
-				var jobtitle = data.first[index1] + " " + data.last[index2];
+			function generate() {
+				var titles = data;
+				index1 = Math.floor(Math.random() * titles.first.length);
+				index2 = Math.floor(Math.random() * titles.last.length);
+				var jobtitle = titles.first[index1] + " " + titles.last[index2];
 				var matches = jobtitle.match(/\b(\w)/g);
 				var jobacronym = matches.join('');
 				document.getElementById("newtitle").innerHTML = jobtitle + " (" + jobacronym + ")";
@@ -39,7 +24,7 @@
 		<button id="generator" onclick="generate()" class="button">Generate new</button>
 		<p id="newtitle"></p>
 		<!-- It needs a badge -->
-		<script src="https://raw.githubusercontent.com/bullgit/bullgit-badges/master/bullgit-badges.min.js"></script>
+		<script src="https://bullg.it/badge/badge.js"></script>
 	</body>
 
 </html>
