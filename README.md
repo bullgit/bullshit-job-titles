@@ -7,11 +7,14 @@
 * ASAP Developer `ASAPD`
 * Awesome Multiple Files Deleter `AMFD`
 * Beard Manager `BM`
+* Beautiful Code Artisan `BCA`
 * Big IT Consultant Helper `BITCH`
 * Bottomless Pit of Awesome Name Ideas `BPANI`
 * Brand Champion `BC`
+* Bullshit Experience Designer `BXD`
 * Busy Digital Software Manager `BDSM`
 * Chief Happiness Officer `CHO`
+* Chief Executive Ravioli Code Chef `CERCC`
 * Closed Source Evangelist `CSE`
 * Community Data Guerrilla `CDG`
 * Complete Graphical Manager `CGM`
@@ -21,6 +24,7 @@
 * Creative Researcher Hacker `CRH`
 * CSS Programmer `CSSP`
 * CSS Warrior `CSSW`
+* CSS Tamer `CSST`
 * Digital Prophet `DP`
 * Direct Response Administrator `DRA`
 * Drag & Drop Hero `DDH`
@@ -98,6 +102,7 @@
 * Sublime Text Evangelist `STE`
 * Table Layout King `TLK`
 * Thought Leader `TL`
+* Über SASS Tweeter `UST / USST`
 * UILang Expert `UE`
 * Unemployed Interface Engineer `UIE`
 * Variables Lord Master `VLM`
@@ -110,10 +115,9 @@
 * Volunteer Frameset Endorser `VFE`
 * Webmaster `WM`
 * Website Building Warrior `WBW`
+* Web Experience Manager `WXM`
 * WiFi Wires Shop Owner `WWSO`
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
-* Über SASS Tweeter `UST / USST`
-* CSS Tamer `CSST`
 
 ### add your own BJTs - Pull Requests welcome!
