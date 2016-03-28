@@ -15,6 +15,7 @@
 * Busy Digital Software Manager `BDSM`
 * Chief Happiness Officer `CHO`
 * Chief Executive Ravioli Code Chef `CERCC`
+* Chief Make it Fucking Run Officer `CMIFRO`
 * Closed Source Evangelist `CSE`
 * Community Data Guerrilla `CDG`
 * Complete Graphical Manager `CGM`
