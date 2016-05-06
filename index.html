@@ -40,6 +40,10 @@
       var jobacronym = matches.join('');
       document.getElementById("newtitle").innerHTML = jobtitle + " (" + jobacronym + ")";
     }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      generate();
+    });
   </script>
   <!-- It needs a badge -->
   <script src="https://bullg.it/badge/badge.js"></script>
