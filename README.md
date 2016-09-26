@@ -110,7 +110,7 @@
 * Viral Videograph `VV`
 * Virtual Horsedriver `VH`
 * Virtuous Twittererer `VTRR`
-* Virtuous Visualiser `VVS
+* Virtuous Visualiser `VVS`
 * Visionary Product Owner `VPO`
 * Visual Jockey `VJ`
 * Volunteer Frameset Endorser `VFE`
