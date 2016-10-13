@@ -120,5 +120,6 @@
 * WiFi Wires Shop Owner `WWSO`
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
+* Java Junky `JJ`
 
 ### add your own BJTs - Pull Requests welcome!
