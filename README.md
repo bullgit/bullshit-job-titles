@@ -6,6 +6,7 @@
 * Amazing Keyboard Presser `AKP`
 * ASAP Developer `ASAPD`
 * Awesome Multiple Files Deleter `AMFD`
+* Bug Hunting as a Service `BHaaS`
 * Beard Manager `BM`
 * Beautiful Code Artisan `BCA`
 * Big IT Consultant Helper `BITCH`
@@ -121,6 +122,5 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Java Junky `JJ`
-* Bug Hunting as a Service `BHaaS`
 
 ### add your own BJTs - Pull Requests welcome!
