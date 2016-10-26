@@ -121,5 +121,6 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Java Junky `JJ`
+* Bug Hunting as a Service `BHaaS`
 
 ### add your own BJTs - Pull Requests welcome!
