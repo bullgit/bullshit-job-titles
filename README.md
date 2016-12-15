@@ -67,6 +67,7 @@
 * Lead File Uploader `LFU`
 * Lead WYSIWYG Ninja `LWN`
 * M.Dot Superhero `MDSH`
+* Magnificent Meme Meiseter `MMM`
 * Markdown Hacker `MDH`
 * Master CSS-layout Spec Designer `MClSC`
 * Master of Copy&Paste `MCP`
