@@ -1,5 +1,7 @@
 # bullshit job titles `BJTs`
 
+[npm package](./docs.md)
+
 * .BMP Optimizer `BMPO`
 * 4 Stages Bullshit Recruiter `4SBR`
 * Adobe Acrobat Updater `AAU`

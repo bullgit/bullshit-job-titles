@@ -1,0 +1,16 @@
+{
+  "name": "bullshit-job-titles",
+  "version": "1.0.0",
+  "description": "the shittiest job titles you'll ever see",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullgit/bullshit-job-titles.git"
+  },
+  "author": "Haroen Viaene <hello@haroen.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bullgit/bullshit-job-titles/issues"
+  },
+  "homepage": "https://bullg.it/bullshit-job-titles"
+}
