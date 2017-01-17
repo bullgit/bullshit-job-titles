@@ -17,9 +17,9 @@ body {
 }
 
 @media all and (min-width: 1000px) {
-    #newtitle {
-        font-size: 6rem;
-    }
+	#newtitle {
+		font-size: 6rem;
+	}
 }
 
 .button {
