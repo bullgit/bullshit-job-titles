@@ -125,5 +125,6 @@
 * Wikipedia Content Quality Supervisor `WCQS`
 * Wordpress Expert `WpE`
 * Java Junky `JJ`
+* Service Workers Wizard `SWW`
 
 ### add your own BJTs - Pull Requests welcome!
