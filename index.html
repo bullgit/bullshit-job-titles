@@ -27,23 +27,22 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <button id="generator" onclick="generate()" class="button">Generate new</button>
+  <button id="generator" class="button">Generate new</button>
   <p id="newtitle"></p>
   <script language="javascript">
-    var data = {% include_relative bullshit-job-titles.json %};
+    const data = {% include_relative bullshit-job-titles.json %};
     function generate() {
-      var titles = data;
+      const titles = data;
       index1 = Math.floor(Math.random() * titles.first.length);
       index2 = Math.floor(Math.random() * titles.last.length);
-      var jobtitle = titles.first[index1] + " " + titles.last[index2];
-      var matches = jobtitle.match(/\b(\w)/g);
-      var jobacronym = matches.join('');
-      document.getElementById("newtitle").innerHTML = jobtitle + " (" + jobacronym + ")";
+      const jobtitle = `${titles.first[index1]} ${titles.last[index2]}`;
+      const matches = jobtitle.match(/\b(\w)/g);
+      const jobacronym = matches.join('');
+      document.getElementById("newtitle").innerHTML = `${jobtitle} (${jobacronym})`;
     }
 
-    document.addEventListener('DOMContentLoaded', function () {
-      generate();
-    });
+    document.getElementById('generator').addEventListener('click', generate);
+    document.addEventListener('DOMContentLoaded', generate);
   </script>
   <!-- It needs a badge -->
   <script src="https://bullg.it/badge/badge.js"></script>
