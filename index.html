@@ -42,16 +42,15 @@
       document.getElementById("newtitle").innerHTML = title;
       history.replaceState({}, `${jobtitle} - bullgit`, `#${title.replace(/ /g, '-')}`);
     }
-    
-    function readTitle() {
-      const title = location.hash.substring(1).replace(/-/g, ' ');
-      document.getElementById("newtitle").innerHTML = title;
-    }
-    
+
     document.getElementById('generator').addEventListener('click', generate);
     document.addEventListener('DOMContentLoaded', () => {
-      readTitle();
-      generate();
+      const title = location.hash.substring(1).replace(/-/g, ' ');
+      if (title) {
+        document.getElementById("newtitle").innerHTML = title;
+      } else {
+        generate();
+      }
     });
   </script>
   <!-- It needs a badge -->
