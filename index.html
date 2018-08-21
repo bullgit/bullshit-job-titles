@@ -29,6 +29,7 @@
 <body>
   <button id="generator" class="button">Generate new</button>
   <p id="newtitle"></p>
+  <a href="">share this one!</a>
   <script language="javascript">
     const data = {% include_relative bullshit-job-titles.json %};
     function generate() {
@@ -40,7 +41,7 @@
       const jobacronym = matches.join('');
       const title = `${jobtitle} (${jobacronym})`;
       document.getElementById("newtitle").innerHTML = title;
-      history.replaceState({}, `${jobtitle} - bullgit`, `#${title.replace(/ /g, '-')}`);
+      document.getElementById("share-link").href = `#${title.replace(/ /g, '-')}`;
     }
 
     document.getElementById('generator').addEventListener('click', generate);
