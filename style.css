@@ -46,3 +46,7 @@ body {
 .button:active {
 	border: solid #1393d5 1px;
 }
+
+a {
+	color: inherit;
+}
