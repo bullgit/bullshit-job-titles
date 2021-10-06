@@ -39,7 +39,7 @@
 * Facebook Quality Controller `FQC`
 * Facial Hair Consultant `FHC`
 * Fax Machine Masterer `FMM`
-* First Class HTML Slut `FCHS`
+* First Class HTML Prodigy `FCHP`
 * First Class Joomla Hacker `FCJH`
 * Flash Guru `FG`
 * Freaking Frontpage Expert `FFH`
@@ -92,7 +92,7 @@
 * Quantum GUI User `QGU`
 * Rapid Prototype Developer `RPD`
 * Redditor `R`
-* SASS SLUT `SS`
+* SASS Master `SS`
 * Security Startup Test `SST`
 * Senior Beard Manager `SBM`
 * Senior Coffee Maker `SCM`
